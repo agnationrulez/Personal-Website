@@ -1,0 +1,59 @@
+p { color: darkblue;
+	font-size: 15pt;
+	font-family: Serif;
+}
+
+
+
+h1 { color: darkorange;
+   font-size: 50pt;
+	font-family: Serif;
+   text-align: center;
+  text-shadow: -4px 4px 5px dimgrey;
+
+}
+
+h3 { color: darkblue;
+  font-size: 25pt;
+  font-family: Serif;
+  text-align: center;
+  text-shadow: -4px 4px 5px dimgrey;
+}
+
+
+li { color: darkorange;
+  font-size: 15pt;
+  font-family: Serif
+}
+
+
+ul {
+            list-style-type: none;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+            background-color: darkblue;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: darkorange;
+            text-align: center;
+            padding: 14px 16px;
+            text-shadow: -4px 4px 5px darkorange;
+            text-decoration: none;
+        }
+
+        li a:hover {
+            background-color: black;
+        }
+
+
+
+img {
+  filter: drop-shadow(10px 10px 10px black);
+}
